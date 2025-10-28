@@ -6,7 +6,7 @@ import google.generativeai as genai
 from dotenv import load_dotenv
 load_dotenv()
 
-genai.configure(api_key="AIzaSyCin2PxUcVVcsCDc8K3SWlyOHaCy4JIFVY")
+genai.configure(api_key="API_KEY")
 
 
 def get_gemini_response(question,prompt):
@@ -56,3 +56,4 @@ if submit:
     for row in data:
         print(data)
         st.header(data)
+
