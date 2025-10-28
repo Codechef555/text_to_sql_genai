@@ -88,7 +88,9 @@ Improve UI with better data visualization (charts, filters, etc.).
 🧑‍💻 Author
 
 Developed by: Md.Karaamathullah sheriff
+
 Purpose: To explore and demonstrate how AI and natural language processing can simplify database interactions.
+
 Acknowledgment: This project was built as part of a personal learning journey into AI-driven data systems.
 
 📜 License
