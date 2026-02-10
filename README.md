@@ -1,4 +1,5 @@
 🧠 Text-to-SQL AI System
+
 📘 Overview
 
 The Text-to-SQL AI System enables users to interact with databases using natural language. By leveraging Google Gen AI (Gemini) and SQLite3, this project converts plain English queries into structured SQL commands, executes them, and returns the relevant data — all through an intuitive Streamlit web interface.
